@@ -1,4 +1,3 @@
 # 2018732061_HW5
 
-981026 kimgunwook
-* collaboration 활용
+2018732061 김건욱 KimGunWook
